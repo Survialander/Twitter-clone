@@ -1,0 +1,25 @@
+body{
+    margin-top: 10px;
+}
+
+.logo{
+    padding-left: 20px;
+    border-radius: 100px;
+}
+
+.form{
+    margin-top: 10px;
+}
+
+input{
+    margin-top: 20px;                        
+}
+
+.sair{
+    float: right;
+}
+
+.posts{
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
